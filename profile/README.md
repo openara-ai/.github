@@ -1,6 +1,6 @@
 # openara.ai
 
-**openara.ai** stands for **Open Agents, Reasoning & Applications**.
+**openara.ai** — **Open Agents, Reasoning & Applications**.
 
 openara.ai is a public AI engineering lab focused on practical agentic applications, AI-assisted software development, and local-first AI tools.
 
@@ -33,4 +33,4 @@ Openara.ai projects are built to be:
 
 ## Created by
 
-openara.ai is created by **Kumar Rajeev** as a public home for practical AI applications and agentic software development.
+openara.ai is created by **Kumar Rajeev** 
