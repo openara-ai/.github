@@ -1,4 +1,4 @@
-# Openara.ai
+# openara.ai
 
 **Openara.ai** stands for **Open Agents, Reasoning & Applications**.
 
