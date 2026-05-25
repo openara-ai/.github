@@ -1,10 +1,10 @@
 # openara.ai
 
-**Agentic engineering, open and documented.**
+**Agentic engineering, in practice.**
 
 openara.ai is an independent consulting and research practice focused on **agentic engineering**: using AI agents to shorten idea-to-ship cycles while maintaining production-quality engineering discipline.
 
-The projects published here are the research arm of the practice. Each is a working tool, built end-to-end through agentic engineering workflows — using current AI agent tools under human architectural direction. The projects, the build process, the observations, and the methodology are all open and publicly documented.
+The projects published here are working apps and tools, built end-to-end through agentic engineering workflows — using current AI agent tools under human architectural direction. The projects, the build process, the observations, and the methodology are all open and publicly documented.
 
 ## What we explore
 
