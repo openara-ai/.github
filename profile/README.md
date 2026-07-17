@@ -26,7 +26,7 @@ Agentic engineering is a young practice. openara explores how it actually works 
 
 **What this demonstrates:** MediaSearchAgent is the current end-to-end demonstration of an idea-to-ship journey through agentic engineering. Phase 1 was exploratory — built with AI coding agents deliberately without imposing a pre-existing methodology, to learn what agents can and can't do. Phase 2 is applied — built with structure, measurement, and the patterns that emerged from Phase 1. The repository documents both phases: what worked, what didn't, where the human had to intervene, and what the practice looks like in real engineering work.
 
-[Repository →](https://github.com/openara-ai/media-search-agent)
+[Repository →](https://github.com/openara-ai/media-search-agent) · [The story of Phase 1 → *Discovering Forgotten Moments*](https://theagenticnotes.substack.com/p/discovering-forgotten-moments)
 
 ## How we build
 
@@ -42,5 +42,7 @@ Agentic engineering is a young practice. openara explores how it actually works 
 openara.ai is an independent consulting and research practice. The open projects published here form the research arm.
 
 Created and maintained by **[Kumar Rajeev](https://www.linkedin.com/in/kumarrajeev1)** 
+
+Stories from the build, one project at a time: **[The Agentic Notes](https://theagenticnotes.substack.com)**
 
 More on openara.ai: [LinkedIn](https://www.linkedin.com/company/openara)
