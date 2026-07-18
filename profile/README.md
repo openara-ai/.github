@@ -16,7 +16,7 @@ Agentic engineering is a young practice. openara explores how it actually works 
 - **Iteration cycles** — what actually shortens idea-to-ship time, where the cycles stall, and what unblocks them
 - **Process as research output** — how the build process itself gets documented as a learning artifact
 
-## Featured project: [MediaSearchAgent](https://github.com/openara-ai/media-search-agent)
+## Featured project: <ins>[MediaSearchAgent](https://github.com/openara-ai/media-search-agent)</ins>
 
 **The idea:** rediscover forgotten moments across your personal media — photos and videos that have piled up across years and devices — by simply describing what you remember. *"That trip with my son to the Florida beach."* *"The birthday dinner with my parents."* Locally, on your own device, without sending your photos anywhere.
 
@@ -26,12 +26,14 @@ Agentic engineering is a young practice. openara explores how it actually works 
 
 **What this demonstrates:** MediaSearchAgent is the current end-to-end demonstration of an idea-to-ship journey through agentic engineering. Phase 1 was exploratory — built with AI coding agents deliberately without imposing a pre-existing methodology, to learn what agents can and can't do. Phase 2 is applied — built with structure, measurement, and the patterns that emerged from Phase 1. The repository documents both phases: what worked, what didn't, where the human had to intervene, and what the practice looks like in real engineering work.
 
-[Repository →](https://github.com/openara-ai/media-search-agent) · [The story of Phase 1 → *Discovering Forgotten Moments*](https://theagenticnotes.substack.com/p/discovering-forgotten-moments)
+[Repository →](https://github.com/openara-ai/media-search-agent) 
+
+[The story of Phase 1 → *Discovering Forgotten Moments*](https://theagenticnotes.substack.com/p/discovering-forgotten-moments)
 
 ## How we build
 
 - **Useful before polished.** Ship the thing that solves the problem. Polish follows usefulness.
-- **Transparent about limitations.** Say what works, what doesn't, and where the rough edges are. No magic, no hype.
+- **Transparent about limitations.** Say what works, what doesn't, and where the rough edges are.
 - **Friendly to experimentation.** Designed to be poked at, forked, and rewired. Code as a starting point, not a black box.
 - **Grounded in real workflows.** Start from how people actually use their tools.
 - **Learning artifacts.** Each project is also a public record of how it was built, including the AI-assisted parts.
