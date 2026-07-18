@@ -6,6 +6,8 @@ openara.ai is an independent consulting and research practice focused on **agent
 
 The projects published here are working apps and tools, built end-to-end through agentic engineering workflows — using current AI agent tools under human architectural direction. The projects, the build process, the observations, and the methodology are all open and publicly documented.
 
+> 📖 **The build stories live at [The Agentic Notes](https://theagenticnotes.substack.com)** — why each project exists and what it actually took, one project at a time.
+
 ## What we explore
 
 Agentic engineering is a young practice. openara explores how it actually works through real projects, surfacing the practical dimensions that matter:
@@ -45,6 +47,4 @@ openara.ai is an independent consulting and research practice. The open projects
 
 Created and maintained by **[Kumar Rajeev](https://www.linkedin.com/in/kumarrajeev1)** 
 
-Stories from the build, one project at a time: **[The Agentic Notes](https://theagenticnotes.substack.com)**
-
-More on openara.ai: [LinkedIn](https://www.linkedin.com/company/openara)
+More on openara.ai: [The Agentic Notes](https://theagenticnotes.substack.com) · [LinkedIn](https://www.linkedin.com/company/openara)
