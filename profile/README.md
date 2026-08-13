@@ -31,7 +31,7 @@ These areas represent durable engineering capabilities that continue to evolve a
 
 ## 📷 Media Search Agent
 
-A multimodal AI system that enables natural-language search across personal photos and videos using semantic search, face recognition, metadata extraction, speech transcription, and local inference.
+A multimodal AI system that enables natural-language search across personal photos and videos using semantic search, face recognition, metadata extraction, and local inference.
 
 **Demonstrates**
 
